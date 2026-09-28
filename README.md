@@ -191,14 +191,13 @@ Data Structures & Algorithms
 
 ## 🏆 Achievements & Activities
 
-* 🎓 B.E. Computer Science and Engineering (IoT)
-* 💻 200 Days of Coding Challenge
-* 🤖 IoT & Embedded Systems Projects
-* 🚀 Full Stack Development Projects
-* 🏆 Hackathon & Technical Event Participation
-* 📚 Continuous learning through projects and coding practice
+* 🏅 **Best Academic Performer** — K.S.R. College of Engineering *(2024–2025)*
+* 🏅 **Best Academic Performer** — K.S.R. College of Engineering *(2025–2026)*
+* 🤖 **IoT & Embedded Systems Projects**
+* 🚀 **Full Stack Development Projects**
+* 🏆 **Hackathon & Technical Event Participation**
+* 📚 **Continuous learning through projects and coding practice**
 
----
 
 ## 🌐 Connect With Me
 
