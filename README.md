@@ -18,7 +18,7 @@ I'm a 3rd-year **B.E. Computer Science and Engineering (IoT)** student passionat
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,c" />
 </p>
 
 ### 🌐 Frontend Development
@@ -212,8 +212,7 @@ Data Structures & Algorithms
 
 📧 **Email:** Add your professional email here
 
-🌐 **Portfolio:**
-https://portfolio-kameshwaran.vercel.app/
+🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-kameshwarank.vercel.app/)
 
 💼 **LinkedIn:**
 https://www.linkedin.com/in/kameshwaran-k-36aa9b327/
