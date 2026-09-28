@@ -42,7 +42,7 @@ I'm a 3rd-year **B.E. Computer Science and Engineering (IoT)** student passionat
 ### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,vercel" />
 </p>
 
 ### 🔌 IoT & Embedded
@@ -55,25 +55,7 @@ I'm a 3rd-year **B.E. Computer Science and Engineering (IoT)** student passionat
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Appointment Management System
 
-A full-stack healthcare management application designed to manage patients, doctors, appointments, medical records and prescriptions.
-
-**Tech Stack:**
-`Java` `Spring Boot` `React` `MySQL` `JWT` `REST API` `Docker`
-
-**Key Features:**
-
-* 🔐 JWT-based authentication
-* 👨‍⚕️ Doctor and patient management
-* 📅 Appointment scheduling
-* 📋 Medical records
-* 💊 Prescription management
-* 🔔 Notifications
-* 👨‍💼 Admin management
-* 📖 Swagger API documentation
-
----
 
 ### 🎭 AV Hall Booking & Event Management System
 
@@ -96,6 +78,25 @@ A full-stack web application developed to simplify AV hall booking and event man
 
 🌐 **Live Demo:**
 https://av-hall-frontend.vercel.app
+
+---
+### 🏥 Hospital Appointment Management System
+
+A full-stack healthcare management application designed to manage patients, doctors, appointments, medical records and prescriptions.
+
+**Tech Stack:**
+`Java` `Spring Boot` `React` `MySQL` `JWT` `REST API` `Docker`
+
+**Key Features:**
+
+* 🔐 JWT-based authentication
+* 👨‍⚕️ Doctor and patient management
+* 📅 Appointment scheduling
+* 📋 Medical records
+* 💊 Prescription management
+* 🔔 Notifications
+* 👨‍💼 Admin management
+* 📖 Swagger API documentation
 
 ---
 
