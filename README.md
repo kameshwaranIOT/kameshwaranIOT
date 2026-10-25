@@ -168,13 +168,7 @@ Data Structures & Algorithms
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
