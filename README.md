@@ -100,14 +100,9 @@ A full-stack healthcare management application designed to manage patients, doct
 
 ---
 
-### 🤖 AI Code Reviewer
 
-An application designed to analyze source code and provide AI-assisted feedback to improve code quality and identify potential issues.
 
-**Tech Stack:**
-`JavaScript` `React` `Node.js` `AI APIs`
 
----
 
 ### ☕ Java Billing Application
 
